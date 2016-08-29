@@ -42,26 +42,6 @@
 		  "bundleName": "i18n.i18n"
 		}
 	  },
-	  "buchungen": {
-	    "type": "sap.ui.model.json.JSONModel",
-	    "uri":"Buchung.json"
-	  },
-	  "distanzen": {
-	    "type": "sap.ui.model.json.JSONModel",
-	    "uri":"ui/Distanz.json"
-	  },
-	  "buchungstage": {
-	    "type": "sap.ui.model.json.JSONModel",
-	    "uri":"ui/Buchungstage.json"
-	  }
-	},
-	"resources": {
-	  "css": [
-		{
-		  "uri": "css/style.css"
-		}
-	  ]
-	},
 	"routing": {
 				"config": {
 					"routerClass": "sap.m.routing.Router",
